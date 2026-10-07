@@ -1,0 +1,9 @@
+{
+  "name": "school-panel",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Modern school management panel with admin and student roles",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
